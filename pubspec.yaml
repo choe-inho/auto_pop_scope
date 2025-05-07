@@ -1,7 +1,9 @@
 name: auto_pop_scope
 description: "앱 전체에 자동으로 PopScope를 적용하여 iOS 팝 제스처를 모든 페이지에서 인식할 수 있게 해주는 패키지입니다."
 version: 0.0.1
-homepage:
+homepage: https://github.com/choe-inho/auto_pop_scope
+repository: https://github.com/choe-inho/auto_pop_scope
+issue_tracker: https://github.com/choe-inho/auto_pop_scope/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
