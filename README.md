@@ -84,7 +84,7 @@ class MyPage extends StatelessWidget {
 
 ## 주의사항
 
-- Flutter 3.10.0 이상에서 작동합니다.
+- Flutter 3.16.0 이상에서 작동합니다.
 - 이 패키지는 새로운 `PopScope` 위젯을 사용하므로, 이전 버전의 Flutter에서는 작동하지 않을 수 있습니다.
 
 ## 라이센스
